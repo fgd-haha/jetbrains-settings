@@ -1,14 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="finish" />
+      <item value="完成" />
+      <item value="wait for_完成" />
       <item value="organization id" />
       <item value="准备训练数据" />
       <item value="tentatively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
