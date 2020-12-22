@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="description" />
       <item value="方向" />
       <item value="BIRLD" />
       <item value="Feature Engineering" />
