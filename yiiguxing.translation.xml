@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="631" />
+    <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="方向" />
       <item value="BIRLD" />
       <item value="Feature Engineering" />
       <item value="create align job" />
