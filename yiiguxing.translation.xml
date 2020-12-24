@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="fl_server_address, flask_address" />
       <item value="未连接" />
       <item value="优化" />
       <item value="数据准备`" />
