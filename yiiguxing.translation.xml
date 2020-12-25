@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="间隔符" />
+      <item value="间隔" />
+      <item value="slut" />
+      <item value="前缀" />
+      <item value="后缀" />
       <item value="fl_server_address, flask_address" />
       <item value="未连接" />
       <item value="优化" />
@@ -27,8 +32,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
