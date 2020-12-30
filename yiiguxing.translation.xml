@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="tuple" />
       <item value="次数" />
       <item value="间隔符" />
       <item value="间隔" />
@@ -34,12 +35,12 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="ENGLISH" value="17" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1608713633288" />
+    <option name="lastTrimTime" value="1609296201374" />
   </component>
 </application>
