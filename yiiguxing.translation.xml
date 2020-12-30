@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="eg" />
+      <item value="example" />
       <item value="tuple" />
       <item value="次数" />
       <item value="间隔符" />
@@ -34,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="16" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="SWEDISH" value="1" />
       </map>
     </option>
