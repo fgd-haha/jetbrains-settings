@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="算法" />
       <item value="get_algorithm" />
       <item value="get_算法" />
       <item value="eg" />
@@ -28,7 +29,6 @@
       <item value="BIRLD" />
       <item value="Feature Engineering" />
       <item value="create align job" />
-      <item value="算法" />
       <item value="finish" />
       <item value="完成" />
       <item value="wait for_完成" />
