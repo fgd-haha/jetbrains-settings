@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="get_algorithm" />
+      <item value="get_算法" />
       <item value="eg" />
       <item value="example" />
       <item value="tuple" />
