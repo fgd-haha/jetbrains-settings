@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="registry" />
       <item value="算法" />
       <item value="get_algorithm" />
       <item value="get_算法" />
@@ -45,6 +46,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1609296201374" />
+    <option name="lastTrimTime" value="1609902128277" />
   </component>
 </application>
