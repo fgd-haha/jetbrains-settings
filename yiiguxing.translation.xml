@@ -1,5 +1,54 @@
 <application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="631" />
+    <option name="newTranslationDialogY" value="-645" />
+    <histories>
+      <item value="server_1" />
+      <item value="moudel" />
+      <item value="registry" />
+      <item value="算法" />
+      <item value="get_algorithm" />
+      <item value="get_算法" />
+      <item value="eg" />
+      <item value="example" />
+      <item value="tuple" />
+      <item value="次数" />
+      <item value="间隔符" />
+      <item value="间隔" />
+      <item value="slut" />
+      <item value="前缀" />
+      <item value="后缀" />
+      <item value="fl_server_address, flask_address" />
+      <item value="未连接" />
+      <item value="优化" />
+      <item value="数据准备`" />
+      <item value="数据准备" />
+      <item value=" Schema" />
+      <item value=" Schema " />
+      <item value=" Schema Response" />
+      <item value="Create Schema Response" />
+      <item value="description" />
+      <item value="方向" />
+      <item value="BIRLD" />
+      <item value="Feature Engineering" />
+      <item value="create align job" />
+      <item value="finish" />
+      <item value="完成" />
+      <item value="wait for_完成" />
+      <item value="organization id" />
+      <item value="准备训练数据" />
+      <item value="tentatively" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="19" />
+        <entry key="ENGLISH" value="20" />
+        <entry key="CATALAN" value="1" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611058573270" />
+    <option name="lastTrimTime" value="1610357762450" />
   </component>
 </application>
