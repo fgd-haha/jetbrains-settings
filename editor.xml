@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="REFORMAT_ON_PASTE" value="1" />
   </component>
   <component name="DefaultFont">
