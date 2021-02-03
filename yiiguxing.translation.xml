@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="registry address" />
       <item value="server_1" />
       <item value="moudel" />
       <item value="registry" />
@@ -49,6 +50,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1611063528594" />
+    <option name="lastTrimTime" value="1611571102477" />
   </component>
 </application>
