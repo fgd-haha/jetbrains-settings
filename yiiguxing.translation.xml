@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="bastion" />
       <item value="`" />
       <item value="error handler" />
       <item value="registry address" />
@@ -45,7 +46,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -53,6 +54,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1612774354396" />
+    <option name="lastTrimTime" value="1613616714431" />
   </component>
 </application>
