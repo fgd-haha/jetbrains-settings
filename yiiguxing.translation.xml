@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="policy" />
       <item value="signature" />
       <item value="intersection" />
       <item value="evaluation" />
@@ -50,8 +51,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -59,6 +60,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1613616714431" />
+    <option name="lastTrimTime" value="1614050359806" />
   </component>
 </application>
