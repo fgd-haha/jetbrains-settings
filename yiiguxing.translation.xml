@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="必须权限" />
+      <item value="要求权限" />
       <item value="permission" />
       <item value="权限" />
       <item value="加密的" />
