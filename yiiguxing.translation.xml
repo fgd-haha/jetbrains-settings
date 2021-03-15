@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="execute res" />
       <item value="验证" />
       <item value="必须权限" />
       <item value="要求权限" />
@@ -52,12 +53,11 @@
       <item value="完成" />
       <item value="wait for_完成" />
       <item value="organization id" />
-      <item value="准备训练数据" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
