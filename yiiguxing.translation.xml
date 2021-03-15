@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="验证" />
       <item value="必须权限" />
       <item value="要求权限" />
       <item value="permission" />
@@ -52,11 +53,10 @@
       <item value="wait for_完成" />
       <item value="organization id" />
       <item value="准备训练数据" />
-      <item value="tentatively" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
+        <entry key="CHINESE" value="29" />
         <entry key="ENGLISH" value="29" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615358024076" />
+    <option name="lastTrimTime" value="1615799044282" />
   </component>
 </application>
