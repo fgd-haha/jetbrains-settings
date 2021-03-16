@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="Development" />
+      <item value="面试" />
       <item value="bastion" />
       <item value="execute res" />
       <item value="验证" />
@@ -51,13 +53,11 @@
       <item value="create align job" />
       <item value="finish" />
       <item value="完成" />
-      <item value="wait for_完成" />
-      <item value="organization id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
