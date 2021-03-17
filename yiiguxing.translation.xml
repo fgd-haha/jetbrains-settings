@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="创建和开始任务需要权限" />
       <item value="Development" />
       <item value="面试" />
       <item value="bastion" />
@@ -52,11 +53,10 @@
       <item value="Feature Engineering" />
       <item value="create align job" />
       <item value="finish" />
-      <item value="完成" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="31" />
+        <entry key="CHINESE" value="32" />
         <entry key="ENGLISH" value="32" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
