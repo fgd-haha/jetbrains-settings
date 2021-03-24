@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="ENDPOINT" />
       <item value="schedule" />
       <item value="新建信息" />
       <item value="创建和开始任务需要权限" />
@@ -52,12 +53,11 @@
       <item value="description" />
       <item value="方向" />
       <item value="BIRLD" />
-      <item value="Feature Engineering" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
