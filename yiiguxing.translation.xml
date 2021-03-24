@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="schedule" />
       <item value="新建信息" />
       <item value="创建和开始任务需要权限" />
       <item value="Development" />
@@ -52,12 +53,11 @@
       <item value="方向" />
       <item value="BIRLD" />
       <item value="Feature Engineering" />
-      <item value="create align job" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="ENGLISH" value="34" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1615799044282" />
+    <option name="lastTrimTime" value="1616575851457" />
   </component>
 </application>
