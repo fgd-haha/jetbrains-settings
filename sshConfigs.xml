@@ -2,6 +2,9 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="101.227.102.50" id="6f659576-a9de-4f23-8332-9c762652e04c" port="60137" nameFormat="DESCRIPTIVE" username="fanguodong" />
+      <sshConfig authType="PASSWORD" host="101.227.102.50" id="9ba334e3-2dde-45fd-9b12-1cb8c82d5fde" port="60135" customName="fanguodong@101.227.102.50:60135" nameFormat="CUSTOM" username="fanguodong">
+        <option name="customName" value="fanguodong@101.227.102.50:60135" />
+      </sshConfig>
     </configs>
   </component>
 </application>
