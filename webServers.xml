@@ -1,13 +1,6 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="cd743d17-78aa-4ba2-873b-0c896c5a6c94" name="TEE 137">
-        <fileTransfer rootFolder="/home/fanguodong" accessType="SFTP" host="101.227.102.50" port="60137" sshConfigId="6f659576-a9de-4f23-8332-9c762652e04c" sshConfig="fanguodong@101.227.102.50:60137 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
       <webServer id="63ebe6b4-a761-4f70-9e1c-1bb1735fab4b" name="TEE 135">
         <fileTransfer rootFolder="/home/fanguodong" accessType="SFTP" host="101.227.102.50" port="60135" sshConfigId="9ba334e3-2dde-45fd-9b12-1cb8c82d5fde" sshConfig="fanguodong@101.227.102.50:60135">
           <advancedOptions>
