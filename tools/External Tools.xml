@@ -2,7 +2,7 @@
   <tool name="black" description="格式化" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
       <option name="COMMAND" value="/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6" />
-      <option name="PARAMETERS" value="-m black $FilePath$ -l 120" />
+      <option name="PARAMETERS" value="-m black $FilePath$ -l 120 -S" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
