@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="squash" />
       <item value="本地开发" />
       <item value="优化的" />
       <item value="optimization" />
@@ -52,12 +53,11 @@
       <item value="fl_server_address, flask_address" />
       <item value="未连接" />
       <item value="数据准备`" />
-      <item value="数据准备" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="35" />
+        <entry key="ENGLISH" value="36" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
