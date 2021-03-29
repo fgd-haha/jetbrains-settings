@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="本地开发" />
+      <item value="优化的" />
+      <item value="optimization" />
+      <item value="优化" />
+      <item value="improves performance" />
+      <item value="关系" />
+      <item value="重构" />
       <item value="要求" />
       <item value="ENDPOINT" />
       <item value="schedule" />
@@ -44,15 +51,8 @@
       <item value="后缀" />
       <item value="fl_server_address, flask_address" />
       <item value="未连接" />
-      <item value="优化" />
       <item value="数据准备`" />
       <item value="数据准备" />
-      <item value=" Schema" />
-      <item value=" Schema " />
-      <item value=" Schema Response" />
-      <item value="Create Schema Response" />
-      <item value="description" />
-      <item value="方向" />
     </histories>
     <option name="languageScores">
       <map>
