@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="digest" />
+      <item value="canonical query" />
+      <item value="signature" />
       <item value="squash" />
       <item value="本地开发" />
       <item value="优化的" />
@@ -27,7 +30,6 @@
       <item value="权限" />
       <item value="加密的" />
       <item value="policy" />
-      <item value="signature" />
       <item value="intersection" />
       <item value="evaluation" />
       <item value="hetero secureboost" />
@@ -51,13 +53,11 @@
       <item value="前缀" />
       <item value="后缀" />
       <item value="fl_server_address, flask_address" />
-      <item value="未连接" />
-      <item value="数据准备`" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="39" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
