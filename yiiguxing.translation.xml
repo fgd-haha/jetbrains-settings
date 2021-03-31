@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="tuple" />
       <item value="业务方法" />
       <item value="一个人" />
       <item value="person" />
@@ -52,12 +53,11 @@
       <item value="server_1" />
       <item value="moudel" />
       <item value="registry" />
-      <item value="算法" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
