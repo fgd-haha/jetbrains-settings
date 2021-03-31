@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="vault" />
       <item value="digest" />
       <item value="canonical query" />
       <item value="signature" />
@@ -52,12 +53,11 @@
       <item value="slut" />
       <item value="前缀" />
       <item value="后缀" />
-      <item value="fl_server_address, flask_address" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="39" />
+        <entry key="ENGLISH" value="40" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
