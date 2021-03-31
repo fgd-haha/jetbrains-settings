@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="一个人" />
       <item value="person" />
       <item value="全部人" />
       <item value="possessor" />
@@ -52,11 +53,10 @@
       <item value="registry" />
       <item value="算法" />
       <item value="get_algorithm" />
-      <item value="get_算法" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="46" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
