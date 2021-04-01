@@ -3,6 +3,15 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="接口" />
+      <item value="位置" />
+      <item value="智审" />
+      <item value="wisdom" />
+      <item value="政府" />
+      <item value="tax" />
+      <item value="纳税数据" />
+      <item value="公积金" />
+      <item value="房联云" />
       <item value="tuple" />
       <item value="业务方法" />
       <item value="一个人" />
@@ -44,20 +53,11 @@
       <item value="加密的" />
       <item value="policy" />
       <item value="intersection" />
-      <item value="evaluation" />
-      <item value="hetero secureboost" />
-      <item value="intersect" />
-      <item value="`" />
-      <item value="error handler" />
-      <item value="registry address" />
-      <item value="server_1" />
-      <item value="moudel" />
-      <item value="registry" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
