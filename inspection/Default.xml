@@ -8,7 +8,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="41">
+        <list size="56">
           <item index="0" class="java.lang.String" itemvalue="mysqlclient" />
           <item index="1" class="java.lang.String" itemvalue="scikit-learn" />
           <item index="2" class="java.lang.String" itemvalue="SQLAlchemy" />
@@ -50,6 +50,21 @@
           <item index="38" class="java.lang.String" itemvalue="urllib3" />
           <item index="39" class="java.lang.String" itemvalue="Flask" />
           <item index="40" class="java.lang.String" itemvalue="pts" />
+          <item index="41" class="java.lang.String" itemvalue="schema" />
+          <item index="42" class="java.lang.String" itemvalue="alembic" />
+          <item index="43" class="java.lang.String" itemvalue="Flask-Cors" />
+          <item index="44" class="java.lang.String" itemvalue="scheme" />
+          <item index="45" class="java.lang.String" itemvalue="python-dateutil" />
+          <item index="46" class="java.lang.String" itemvalue="minio" />
+          <item index="47" class="java.lang.String" itemvalue="MarkupSafe" />
+          <item index="48" class="java.lang.String" itemvalue="requests" />
+          <item index="49" class="java.lang.String" itemvalue="gunicorn" />
+          <item index="50" class="java.lang.String" itemvalue="python-editor" />
+          <item index="51" class="java.lang.String" itemvalue="Flask-SQLAlchemy" />
+          <item index="52" class="java.lang.String" itemvalue="pyhocon" />
+          <item index="53" class="java.lang.String" itemvalue="Flask-Migrate" />
+          <item index="54" class="java.lang.String" itemvalue="itsdangerous" />
+          <item index="55" class="java.lang.String" itemvalue="Mako" />
         </list>
       </value>
     </option>
