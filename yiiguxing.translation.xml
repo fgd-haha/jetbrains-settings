@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="validate request signature" />
       <item value="tianfu" />
       <item value="compute" />
       <item value="接口" />
@@ -52,12 +53,11 @@
       <item value="要求权限" />
       <item value="permission" />
       <item value="权限" />
-      <item value="加密的" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617018120038" />
+    <option name="lastTrimTime" value="1617687511873" />
   </component>
 </application>
