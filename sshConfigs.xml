@@ -5,6 +5,9 @@
       <sshConfig authType="PASSWORD" host="101.227.102.50" id="9ba334e3-2dde-45fd-9b12-1cb8c82d5fde" port="60135" customName="fanguodong@101.227.102.50:60135" nameFormat="CUSTOM" username="fanguodong">
         <option name="customName" value="fanguodong@101.227.102.50:60135" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.51.178" id="225a7d4c-d522-472b-821b-f377693e45d1" port="22" customName="178" nameFormat="CUSTOM" username="fanguodong">
+        <option name="customName" value="178" />
+      </sshConfig>
     </configs>
   </component>
 </application>
