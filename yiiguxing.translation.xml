@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="冲突" />
       <item value="Development Config" />
       <item value="validate request signature" />
       <item value="tianfu" />
@@ -52,7 +53,6 @@
       <item value="验证" />
       <item value="必须权限" />
       <item value="要求权限" />
-      <item value="permission" />
     </histories>
     <option name="languageScores">
       <map>
