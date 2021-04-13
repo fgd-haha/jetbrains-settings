@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="631" />
     <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="fingerprint" />
+      <item value="encrypted passphrase" />
       <item value="response 处理函数放入after_request" />
       <item value="冲突" />
       <item value="Development Config" />
@@ -51,13 +53,11 @@
       <item value="面试" />
       <item value="bastion" />
       <item value="execute res" />
-      <item value="验证" />
-      <item value="必须权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
