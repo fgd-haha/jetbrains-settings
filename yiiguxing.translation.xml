@@ -1,8 +1,7 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="631" />
-    <option name="newTranslationDialogY" value="-645" />
     <histories>
+      <item value="加密" />
       <item value="fingerprint" />
       <item value="encrypted passphrase" />
       <item value="response 处理函数放入after_request" />
@@ -52,7 +51,6 @@
       <item value="Development" />
       <item value="面试" />
       <item value="bastion" />
-      <item value="execute res" />
     </histories>
     <option name="languageScores">
       <map>
