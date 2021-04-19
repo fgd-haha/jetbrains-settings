@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="substitute placeholders" />
       <item value="scrubbed" />
       <item value="加密" />
       <item value="fingerprint" />
@@ -50,12 +51,11 @@
       <item value="新建信息" />
       <item value="创建和开始任务需要权限" />
       <item value="Development" />
-      <item value="面试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="60" />
+        <entry key="ENGLISH" value="61" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
