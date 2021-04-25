@@ -5,6 +5,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-portal" type="PLAIN_TEXT" />
       <mapping pattern="registry" type="PLAIN_TEXT" />
+      <mapping pattern="auth.py" type="PLAIN_TEXT" />
       <mapping ext="manifest" type="PLAIN_TEXT" />
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
