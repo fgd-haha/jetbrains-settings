@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid Or Duplicate Record" />
       <item value="用户默认权限为admin" />
       <item value="substitute placeholders" />
       <item value="scrubbed" />
@@ -50,12 +51,11 @@
       <item value="ENDPOINT" />
       <item value="schedule" />
       <item value="新建信息" />
-      <item value="创建和开始任务需要权限" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="SWEDISH" value="1" />
