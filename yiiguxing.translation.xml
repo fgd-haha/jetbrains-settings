@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="特征工程" />
       <item value="columns dropped" />
       <item value="Invalid Or Duplicate Record" />
       <item value="用户默认权限为admin" />
@@ -50,7 +51,6 @@
       <item value="重构" />
       <item value="要求" />
       <item value="ENDPOINT" />
-      <item value="schedule" />
     </histories>
     <option name="languageScores">
       <map>
