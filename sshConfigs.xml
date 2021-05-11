@@ -11,6 +11,12 @@
       <sshConfig authType="PASSWORD" host="101.227.102.50" id="bea71922-f3ed-456a-9bcf-8ac2e91182b0" port="60136" customName="fanguodong@101.227.102.50:60136" nameFormat="CUSTOM" username="fanguodong">
         <option name="customName" value="fanguodong@101.227.102.50:60136" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.51.155" id="ea50a7cb-960e-4fd9-8605-139841344e62" port="22" customName="155" nameFormat="CUSTOM" username="fanguodong">
+        <option name="customName" value="155" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.51.154" id="0a1ea404-8981-4880-bf48-099d19136281" port="22" customName="154" nameFormat="CUSTOM" username="fanguodong">
+        <option name="customName" value="154" />
+      </sshConfig>
     </configs>
   </component>
 </application>
