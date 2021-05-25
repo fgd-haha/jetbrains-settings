@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Survived" />
       <item value="数理" />
       <item value="debug" />
       <item value="True" />
@@ -50,7 +51,6 @@
       <item value="优化的" />
       <item value="optimization" />
       <item value="优化" />
-      <item value="improves performance" />
     </histories>
     <option name="languageScores">
       <map>
