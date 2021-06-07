@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="缺少" />
+      <item value="parameter" />
       <item value="path" />
       <item value="Dataset Category" />
       <item value="authorization" />
@@ -49,8 +51,6 @@
       <item value="get individual" />
       <item value="individual" />
       <item value="get individual info" />
-      <item value="获取个人信息" />
-      <item value="vault" />
     </histories>
     <option name="languageScores">
       <map>
