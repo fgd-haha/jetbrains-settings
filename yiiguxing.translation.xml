@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expired" />
       <item value="project" />
       <item value="新增机构" />
       <item value="创建workspace的机构" />
@@ -50,7 +51,6 @@
       <item value="纳税数据" />
       <item value="公积金" />
       <item value="房联云" />
-      <item value="tuple" />
     </histories>
     <option name="languageScores">
       <map>
