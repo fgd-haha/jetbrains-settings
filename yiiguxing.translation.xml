@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="校验organization" />
       <item value="position" />
       <item value="title" />
       <item value="公司职务" />
@@ -50,7 +51,6 @@
       <item value="加密" />
       <item value="fingerprint" />
       <item value="encrypted passphrase" />
-      <item value="response 处理函数放入after_request" />
     </histories>
     <option name="languageScores">
       <map>
