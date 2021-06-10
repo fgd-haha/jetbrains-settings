@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="电话号" />
+      <item value="phone" />
       <item value="job view factory" />
       <item value="prefix" />
       <item value="derector" />
@@ -49,8 +51,6 @@
       <item value="compute" />
       <item value="接口" />
       <item value="位置" />
-      <item value="智审" />
-      <item value="wisdom" />
     </histories>
     <option name="languageScores">
       <map>
