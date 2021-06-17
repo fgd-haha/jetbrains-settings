@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="own" />
       <item value="execute" />
       <item value="excute" />
       <item value="sprit" />
@@ -50,7 +51,6 @@
       <item value="Invalid Or Duplicate Record" />
       <item value="用户默认权限为admin" />
       <item value="substitute placeholders" />
-      <item value="scrubbed" />
     </histories>
     <option name="languageScores">
       <map>
