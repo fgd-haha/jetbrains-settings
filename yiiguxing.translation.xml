@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="alignments" />
+      <item value="alignment" />
       <item value="own" />
       <item value="execute" />
       <item value="excute" />
@@ -49,8 +51,6 @@
       <item value="特征工程" />
       <item value="columns dropped" />
       <item value="Invalid Or Duplicate Record" />
-      <item value="用户默认权限为admin" />
-      <item value="substitute placeholders" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623725415922" />
+    <option name="lastTrimTime" value="1624341201165" />
   </component>
 </application>
