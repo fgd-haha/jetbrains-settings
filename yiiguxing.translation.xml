@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="avatars" />
+      <item value="uploads" />
+      <item value="upload" />
+      <item value="avatar" />
       <item value="guests" />
       <item value="guest" />
       <item value="hosts" />
@@ -47,10 +51,6 @@
       <item value="被允许修改" />
       <item value="Dataset Authorization" />
       <item value="signature" />
-      <item value="入参" />
-      <item value="Survived" />
-      <item value="数理" />
-      <item value="debug" />
     </histories>
     <option name="languageScores">
       <map>
