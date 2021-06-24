@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="uri" />
       <item value="对齐方式" />
       <item value="avatars" />
       <item value="uploads" />
@@ -50,7 +51,6 @@
       <item value="authorization" />
       <item value="删除" />
       <item value="被允许修改" />
-      <item value="Dataset Authorization" />
     </histories>
     <option name="languageScores">
       <map>
