@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="统计" />
+      <item value="statistical" />
       <item value="route" />
       <item value="frontend URL" />
       <item value="uri" />
@@ -49,8 +51,6 @@
       <item value="缺少" />
       <item value="parameter" />
       <item value="path" />
-      <item value="Dataset Category" />
-      <item value="authorization" />
     </histories>
     <option name="languageScores">
       <map>
