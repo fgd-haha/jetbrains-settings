@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
+      <item value="数理统计" />
       <item value="统计" />
       <item value="statistical" />
       <item value="route" />
@@ -49,8 +51,6 @@
       <item value="participate" />
       <item value="我创建的" />
       <item value="缺少" />
-      <item value="parameter" />
-      <item value="path" />
     </histories>
     <option name="languageScores">
       <map>
