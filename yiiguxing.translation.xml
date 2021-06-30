@@ -1,9 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="intersection" />
       <item value="你不能导入其他模块，只能使用pd for pandas, np for numpy" />
       <item value="模块" />
-      <item value="intersection" />
       <item value="兼容模拟请求错误的情况" />
       <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
       <item value="数理统计" />
