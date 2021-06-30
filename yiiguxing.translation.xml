@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="你不能导入其他模块，只能使用pd for pandas, np for numpy" />
+      <item value="模块" />
       <item value="intersection" />
       <item value="兼容模拟请求错误的情况" />
       <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
@@ -49,8 +51,6 @@
       <item value="创建机构" />
       <item value="slave" />
       <item value="参加聚会" />
-      <item value="加入组织" />
-      <item value="participate" />
     </histories>
     <option name="languageScores">
       <map>
