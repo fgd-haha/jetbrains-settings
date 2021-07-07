@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ADD SUBMODULE" />
       <item value="}brownout." />
       <item value="intersection" />
       <item value="你不能导入其他模块，只能使用pd for pandas, np for numpy" />
@@ -50,7 +51,6 @@
       <item value="新增机构" />
       <item value="创建workspace的机构" />
       <item value="创建机构" />
-      <item value="slave" />
     </histories>
     <option name="languageScores">
       <map>
