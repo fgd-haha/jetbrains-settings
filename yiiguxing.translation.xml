@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ciphertext" />
+      <item value="sealing key" />
       <item value="ADD SUBMODULE" />
       <item value="}brownout." />
       <item value="intersection" />
@@ -49,8 +51,6 @@
       <item value="expired" />
       <item value="project" />
       <item value="新增机构" />
-      <item value="创建workspace的机构" />
-      <item value="创建机构" />
     </histories>
     <option name="languageScores">
       <map>
