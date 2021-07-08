@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="extensions" />
+      <item value="not valid after" />
+      <item value="not valid before" />
+      <item value="serial number" />
+      <item value="subject name" />
+      <item value="issuer name" />
       <item value="ciphertext" />
       <item value="sealing key" />
       <item value="ADD SUBMODULE" />
@@ -45,12 +51,6 @@
       <item value="phone" />
       <item value="job view factory" />
       <item value="prefix" />
-      <item value="derector" />
-      <item value="Animal" />
-      <item value="description" />
-      <item value="expired" />
-      <item value="project" />
-      <item value="新增机构" />
     </histories>
     <option name="languageScores">
       <map>
