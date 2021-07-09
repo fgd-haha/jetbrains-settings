@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="unique" />
+      <item value="nullable" />
       <item value="extensions" />
       <item value="not valid after" />
       <item value="not valid before" />
@@ -49,8 +51,6 @@
       <item value="执行" />
       <item value="电话号" />
       <item value="phone" />
-      <item value="job view factory" />
-      <item value="prefix" />
     </histories>
     <option name="languageScores">
       <map>
