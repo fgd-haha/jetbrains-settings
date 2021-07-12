@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="public key folder" />
       <item value="unique" />
       <item value="nullable" />
       <item value="extensions" />
@@ -50,7 +51,6 @@
       <item value="是否执行" />
       <item value="执行" />
       <item value="电话号" />
-      <item value="phone" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,6 +63,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625556181247" />
+    <option name="lastTrimTime" value="1626072770190" />
   </component>
 </application>
