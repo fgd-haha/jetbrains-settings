@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="common Name" />
       <item value="csv keys" />
       <item value="generate" />
       <item value="public key folder" />
@@ -50,7 +51,6 @@
       <item value="公司职务" />
       <item value="职位" />
       <item value="office" />
-      <item value="是否执行" />
     </histories>
     <option name="languageScores">
       <map>
