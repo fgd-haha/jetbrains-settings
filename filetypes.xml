@@ -9,6 +9,7 @@
       <mapping ext="new" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="ibd" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping pattern="auth.py" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
