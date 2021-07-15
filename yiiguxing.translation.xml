@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inference" />
+      <item value="预测" />
+      <item value="训练" />
       <item value="common Name" />
       <item value="csv keys" />
       <item value="generate" />
@@ -48,9 +51,6 @@
       <item value="校验organization" />
       <item value="position" />
       <item value="title" />
-      <item value="公司职务" />
-      <item value="职位" />
-      <item value="office" />
     </histories>
     <option name="languageScores">
       <map>
