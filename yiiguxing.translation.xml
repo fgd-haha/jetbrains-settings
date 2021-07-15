@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
+    <option name="newTranslationDialogX" value="870" />
+    <option name="newTranslationDialogY" value="-632" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="category" />
+      <item value="classification" />
+      <item value="classify" />
+      <item value="type clasify" />
+      <item value="分类" />
       <item value="inference" />
       <item value="预测" />
       <item value="训练" />
@@ -46,11 +55,6 @@
       <item value="alignment" />
       <item value="own" />
       <item value="execute" />
-      <item value="excute" />
-      <item value="sprit" />
-      <item value="校验organization" />
-      <item value="position" />
-      <item value="title" />
     </histories>
     <option name="languageScores">
       <map>
