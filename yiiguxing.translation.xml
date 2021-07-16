@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="dump" />
       <item value="orient" />
       <item value="orientation" />
       <item value="方向" />
@@ -54,7 +55,6 @@
       <item value="host" />
       <item value="auths" />
       <item value="auth" />
-      <item value="alignments" />
     </histories>
     <option name="languageScores">
       <map>
