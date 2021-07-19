@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="portal" />
       <item value="分析" />
       <item value="dump" />
       <item value="orient" />
@@ -54,7 +55,6 @@
       <item value="guest" />
       <item value="hosts" />
       <item value="host" />
-      <item value="auths" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626072770190" />
+    <option name="lastTrimTime" value="1626662520342" />
   </component>
 </application>
