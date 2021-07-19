@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="storage" />
       <item value="portal" />
       <item value="分析" />
       <item value="dump" />
@@ -54,7 +55,6 @@
       <item value="guests" />
       <item value="guest" />
       <item value="hosts" />
-      <item value="host" />
     </histories>
     <option name="languageScores">
       <map>
