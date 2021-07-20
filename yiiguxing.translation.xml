@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PENDING" />
       <item value="准备好的" />
       <item value="就绪的" />
       <item value="就绪" />
@@ -54,7 +55,6 @@
       <item value="avatars" />
       <item value="uploads" />
       <item value="upload" />
-      <item value="avatar" />
     </histories>
     <option name="languageScores">
       <map>
