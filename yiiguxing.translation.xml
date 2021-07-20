@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return" />
+      <item value="Return the string obtained by replacing the leftmost non-overlapping occurrences of the pattern in string by the replacement repl" />
+      <item value="repl can be either a string or a callable; if a string, backslash escapes in it are processed. If it is a callable, it's passed the Match object and must return a replacement string to be used." />
+      <item value="Return the string obtained by replacing the leftmost non-overlapping occurrences of the pattern in string by the replacement repl. repl can be either a string or a callable; if a string, backslash escapes in it are processed. If it is a callable, it's passed the Match object and must return a replacement string to be used." />
       <item value="PENDING" />
       <item value="准备好的" />
       <item value="就绪的" />
@@ -51,10 +55,6 @@
       <item value="route" />
       <item value="frontend URL" />
       <item value="uri" />
-      <item value="对齐方式" />
-      <item value="avatars" />
-      <item value="uploads" />
-      <item value="upload" />
     </histories>
     <option name="languageScores">
       <map>
