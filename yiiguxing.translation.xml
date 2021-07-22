@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="密码" />
+      <item value="Cipher" />
+      <item value="加密" />
       <item value="decrypt" />
       <item value="Return" />
       <item value="Return the string obtained by replacing the leftmost non-overlapping occurrences of the pattern in string by the replacement repl" />
@@ -52,9 +55,6 @@
       <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
       <item value="数理统计" />
       <item value="统计" />
-      <item value="statistical" />
-      <item value="route" />
-      <item value="frontend URL" />
     </histories>
     <option name="languageScores">
       <map>
