@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delivering" />
+      <item value="transfering" />
       <item value="密码" />
       <item value="Cipher" />
       <item value="加密" />
@@ -53,8 +55,6 @@
       <item value="模块" />
       <item value="兼容模拟请求错误的情况" />
       <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
-      <item value="数理统计" />
-      <item value="统计" />
     </histories>
     <option name="languageScores">
       <map>
