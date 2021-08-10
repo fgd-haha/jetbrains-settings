@@ -20,6 +20,9 @@
       <sshConfig authType="PASSWORD" host="192.168.51.60" id="8c93cbde-8340-426d-9e35-5022dbadf612" port="22" customName="155-60 test2" nameFormat="CUSTOM" username="root">
         <option name="customName" value="155-60 test2" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.51.70" id="314d2519-2366-4e78-a5a9-5ea487445487" port="22" customName="156-70" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="156-70" />
+      </sshConfig>
     </configs>
   </component>
 </application>
