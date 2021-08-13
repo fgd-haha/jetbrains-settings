@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="性能" />
       <item value="delivering" />
       <item value="transfering" />
       <item value="密码" />
@@ -54,7 +55,6 @@
       <item value="你不能导入其他模块，只能使用pd for pandas, np for numpy" />
       <item value="模块" />
       <item value="兼容模拟请求错误的情况" />
-      <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
     </histories>
     <option name="languageScores">
       <map>
