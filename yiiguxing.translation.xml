@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="-632" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="性能" />
+      <item value="delivering" />
+      <item value="transfering" />
+      <item value="密码" />
+      <item value="Cipher" />
+      <item value="加密" />
       <item value="decrypt" />
       <item value="Return" />
       <item value="Return the string obtained by replacing the leftmost non-overlapping occurrences of the pattern in string by the replacement repl" />
@@ -49,12 +55,6 @@
       <item value="你不能导入其他模块，只能使用pd for pandas, np for numpy" />
       <item value="模块" />
       <item value="兼容模拟请求错误的情况" />
-      <item value="TODO consider to use source.name as column prefix to avoid overlapping columns" />
-      <item value="数理统计" />
-      <item value="统计" />
-      <item value="statistical" />
-      <item value="route" />
-      <item value="frontend URL" />
     </histories>
     <option name="languageScores">
       <map>
@@ -67,6 +67,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628514787195" />
+    <option name="lastTrimTime" value="1629079212789" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
